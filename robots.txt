@@ -1,3 +1,3 @@
 User-agent: *
 Allow:/
-Sitemap: https://face-personality.netlify.app/sitemap.xml
+Sitemap: https://face-personality.shop/sitemap.xml
